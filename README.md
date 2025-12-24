@@ -1,4 +1,4 @@
-# eDarkStore Financial Dashboard
+# eDarkStore FrontEnd 
 
 Interfaz web desarrollada en ReactJS + Vite para la visualización en tiempo real de indicadores económicos (UF y Dólar). Este frontend consume la API Serverless del Backend, permitiendo la consulta, generación y monitoreo de indicadores financieros almacenados en DynamoDB.
 
